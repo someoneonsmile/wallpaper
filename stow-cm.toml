@@ -1,0 +1,12 @@
+target = "/usr/share/backgrounds/awesome"
+
+fold = true
+
+override = [
+    '.*'
+]
+
+# ignore = [
+#     '.*'
+# ]
+
