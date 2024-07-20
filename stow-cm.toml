@@ -6,7 +6,8 @@ override = [
     '.*'
 ]
 
-# ignore = [
-#     '.*'
-# ]
+ignore = [
+    '\.git'
+    # '.*'
+]
 
